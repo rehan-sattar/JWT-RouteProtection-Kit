@@ -1,0 +1,15 @@
+{
+  "name": "jwt_route_protections",
+  "version": "1.0.0",
+  "description": "JWT authentication with route protection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rehan Sattar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
