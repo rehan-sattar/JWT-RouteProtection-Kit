@@ -6,5 +6,5 @@ A starter kit for JWT( json web tokens ) &amp;&amp; route protection for authent
 // for installation
 npm install
 // for starting 
-
+npm start
 ```
